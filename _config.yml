@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Cameron Martino"
   avatar           : "profile.png"
-  bio              : "PhD Student \n UCSD Bioinformatics & Systems Biology"
+  bio              : "PhD Student \n UC, San Diego \n Bioinformatics & Systems Biology"
   location         : "San Diego, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qCNjVWcAAAAJ&hl=en"
-  email            :
+  email            : "cmartino@eng.ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
