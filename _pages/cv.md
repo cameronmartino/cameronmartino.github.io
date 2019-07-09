@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="https://cameronmartino.github.io/files/cv_two_page.pdf" type="application/pdf" />
+
+{% include archive-cv-pdf.html %}
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
