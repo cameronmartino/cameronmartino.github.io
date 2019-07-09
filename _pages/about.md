@@ -8,16 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Bio - TODO
+Cameron Martino is a PhD student at the University of California, San Diego. His PhD work is under the mentorship of [Dr. Rob Knight](https://knightlab.ucsd.edu/). Cameron’s dissertation work is focused on using longitudinal multi-omics data to explore the vast microbial space for host-microbe interactions of value.
 
-Education
-======
-TODO
+In his free time, Cameron enjoys spending time in the ocean by either surfing, fishing or swimming. When the waves are flat you can find Cameron on his road bike or just simply relaxing with his dog. 
+
+![surfing](/images/surfing.png)
 
 Experience
 ======
-TODO
+* Bioinformatician & Microbiologist - [Ascus Biosciences](https://ascusbiosciences.com/)
+  `(2016 - June 2018)`
+* Bioinformatics Consultant - [General Automation Lab Technologies](https://www.galt-inc.com/)
+  `(2016 - June 2017)`
+* Electrical Engineer - [NanoConversion Technologies](https://www.crunchbase.com/organization/nanoconversion-technologies#section-overview)
+  `(2014 - 2017) University of California, San Diego, CA`
 
-Interests
+Education
 ======
-TODO
+* PhD in Bioinformatics & Systems Biology
+  `(2019 - Present) University of California, San Diego, CA`
+* BS in Bioengineering
+  `(2014 - 2017) University of California, San Diego, CA`
