@@ -18,8 +18,8 @@ Experience
 ======
 * Bioinformatician & Microbiologist - [Ascus Biosciences](https://ascusbiosciences.com/) <br /> `(2016 - June 2018)`
 * Bioinformatics Consultant - [General Automation Lab Technologies](https://www.galt-inc.com/)  <br /> `(2016 - June 2017)`
-* Undergraduate Researcher - [Zengler lab](https://www.zenglerlab.com/)  <br /> `(2014 - June 2017) University of California, San Diego, CA`
-* Electrical Engineer - [NanoConversion Technologies](https://www.crunchbase.com/organization/nanoconversion-technologies#section-overview)  <br /> `(2014 - 2017) University of California, San Diego, CA`
+* Undergraduate Researcher - [Zengler lab](https://www.zenglerlab.com/)  <br /> `(2014 - June 2017)`
+* Electrical Engineer - [NanoConversion Technologies](https://www.crunchbase.com/organization/nanoconversion-technologies#section-overview)  <br /> `(2014 - 2017)`
 
 Education
 ======
