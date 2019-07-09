@@ -12,7 +12,7 @@ Cameron Martino is a PhD student at the University of California, San Diego. His
 
 In his free time, Cameron enjoys spending time in the ocean by either surfing, fishing or swimming. When the waves are flat you can find Cameron on his road bike or just simply relaxing with his dog. 
 
-![surfing](/images/surfing_crop_more.png.png)
+![surfing](/images/surfing_crop_more.png)
 
 Experience
 ======
