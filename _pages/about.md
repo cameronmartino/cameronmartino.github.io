@@ -16,16 +16,11 @@ In his free time, Cameron enjoys spending time in the ocean by either surfing, f
 
 Experience
 ======
-* Bioinformatician & Microbiologist - [Ascus Biosciences](https://ascusbiosciences.com/)
-  `(2016 - June 2018)`
-* Bioinformatics Consultant - [General Automation Lab Technologies](https://www.galt-inc.com/)
-  `(2016 - June 2017)`
-* Electrical Engineer - [NanoConversion Technologies](https://www.crunchbase.com/organization/nanoconversion-technologies#section-overview)
-  `(2014 - 2017) University of California, San Diego, CA`
+* Bioinformatician & Microbiologist - [Ascus Biosciences](https://ascusbiosciences.com/) <br /> `(2016 - June 2018)`
+* Bioinformatics Consultant - [General Automation Lab Technologies](https://www.galt-inc.com/)  <br /> `(2016 - June 2017)`
+* Electrical Engineer - [NanoConversion Technologies](https://www.crunchbase.com/organization/nanoconversion-technologies#section-overview)  <br /> `(2014 - 2017) University of California, San Diego, CA`
 
 Education
 ======
-* PhD in Bioinformatics & Systems Biology
-  `(2019 - Present) University of California, San Diego, CA`
-* BS in Bioengineering
-  `(2014 - 2017) University of California, San Diego, CA`
+* PhD in Bioinformatics & Systems Biology  <br /> `(2019 - Present) University of California, San Diego, CA`
+* BS in Bioengineering  <br /> `(2014 - 2017) University of California, San Diego, CA`
