@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Cameron Martino is a PhD student at the University of California, San Diego. His PhD work is under the mentorship of [Dr. Rob Knight](https://knightlab.ucsd.edu/). Cameron’s dissertation work is focused on using longitudinal multi-omics data to explore the vast microbial space for host-microbe interactions of value.
+I am a Systems Biology PhD student at the University of California, San Diego. My PhD work is under the mentorship of Dr. Rob Knight. My research focuses on advancing longitudinal multi-omics investigation — to explore the vast microbial space for host-microbe interactions of value. I strive to contribute to the next wave of effective, safe, and affordable microbial therapeutics to better the lives of people with chronic diseases.
 
-In his free time, Cameron enjoys spending time in the ocean by either surfing, fishing or swimming. When the waves are flat you can find Cameron on his road bike or just simply relaxing with his dog. 
+In my free time, I enjoy spending time in the ocean by either surfing, fishing or swimming. When the waves are flat you can find me on my road bike or relaxing with my dog. 
 
 ![surfing](/images/surfing_crop_more.png)
 
