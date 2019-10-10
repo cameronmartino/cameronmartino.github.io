@@ -1,0 +1,9 @@
+---
+title: "Methods, apparatuses, and systems for analyzing microorganism strains in complex heterogeneous communities, determining functional relationships and interactions thereof, and diagnostics and biostate management based thereon"
+collection: patents
+permalink: /patents/2018-07-01-Methods-apparatuses-and-systems-for-analyzing-microorganism-strains-in-complex-heterogeneous-communities-determining-functional-relationships-and-interactions-thereof-and-diagnostics-and-biostate-management-based-thereon
+date: 2018-07-01
+venue: 'Methods, apparatuses, and systems for analyzing microorganism strains in complex heterogeneous communities, determining functional relationships and interactions thereof, and diagnostics and biostate management based thereon'
+citation: ' Mallory Embree,  Cameron Martino, &quot;Methods, apparatuses, and systems for analyzing microorganism strains in complex heterogeneous communities, determining functional relationships and interactions thereof, and diagnostics and biostate management based thereon.&quot; Methods, apparatuses, and systems for analyzing microorganism strains in complex heterogeneous communities, determining functional relationships and interactions thereof, and diagnostics and biostate management based thereon, 2018.'
+---
+Use [Google Scholar](https://scholar.google.com/scholar?q=Methods,+apparatuses,+and+systems+for+analyzing+microorganism+strains+in+complex+heterogeneous+communities,+determining+functional+relationships+and+interactions+thereof,+and+diagnostics+and+biostate+management+based+thereon){:target="_blank"} for full citation
