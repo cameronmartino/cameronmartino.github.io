@@ -1,8 +1,8 @@
 ---
 title: "Temporal Stability of the Ruminal Bacterial Communities in Beef Steers"
 collection: publications
-permalink: /publications/2019-01-01-Temporal-Stability-of-the-Ruminal-Bacterial-Communities-in-Beef-Steers
-date: 2019-01-01
+permalink: /publications/2019-07-02-Temporal-Stability-of-the-Ruminal-Bacterial-Communities-in-Beef-Steers
+date: 2019-07-02
 venue: 'Scientific reports'
 citation: ' Brooke Clemmons,  Cameron Martino,  Liesel Schneider,  Josh Lefler,  Mallory Embree,  Phillip Myer, &quot;Temporal Stability of the Ruminal Bacterial Communities in Beef Steers.&quot; Scientific reports, 2019.'
 ---

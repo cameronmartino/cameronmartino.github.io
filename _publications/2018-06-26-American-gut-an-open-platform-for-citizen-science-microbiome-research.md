@@ -1,8 +1,8 @@
 ---
 title: "American gut: an open platform for citizen science microbiome research"
 collection: publications
-permalink: /publications/2018-01-01-American-gut-an-open-platform-for-citizen-science-microbiome-research
-date: 2018-01-01
+permalink: /publications/2018-06-26-American-gut-an-open-platform-for-citizen-science-microbiome-research
+date: 2018-06-26
 venue: 'mSystems'
 citation: ' Daniel McDonald,  Embriette Hyde,  Justine Debelius,  James Morton,  Antonio Gonzalez,  Gail Ackermann,  Alexander Aksenov,  Bahar Behsaz,  Caitriona Brennan,  Yingfeng Chen,  et. al&quot;American gut: an open platform for citizen science microbiome research.&quot; mSystems, 2018.'
 ---
