@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Systems Biology PhD student at the University of California, San Diego. My PhD work is under the mentorship of Dr. Rob Knight. I aim to advance longitudinal multi-omics investigation — to explore the vast microbial space for host-microbe interactions of value. By leveraging experimental and computational -biology in conjunction, I hope to gain a systems-level understanding of how these complex host-microbe systems are formed and perpetuated. 
+I am a [Systems Biology](https://bioinformatics.ucsd.edu/) PhD student at UC San Diego. My PhD work is under the mentorship of [Dr. Rob Knight](https://knightlab.ucsd.edu/). By leveraging experimental and computational -biology in conjunction, I hope to advance our understanding of how complex host-microbe systems are formed and perpetuated. 
 
-In my free time, I enjoy spending time in the ocean by either surfing, fishing or swimming. When the waves are flat you can find me on my road bike or relaxing with my dog. 
-
-![surfing](/images/surfing_crop_more.png)
+| ![surfing](/images/surfing_crop_more.png) | 
+|:--:| 
+| *My favorite pastime, taken at the frisco pier in cape hatteras (2019)* |
 
 Experience
 ======
+* Graduate Student - [Knight Lab (UCSD)](https://knightlab.ucsd.edu/)  <br /> `(August 2019 - Present)`
 * Bioinformatician & Microbiologist - [Ascus Biosciences](https://ascusbiosciences.com/) <br /> `(2016 - June 2019)`
 * Bioinformatics Consultant - [General Automation Lab Technologies](https://www.galt-inc.com/)  <br /> `(2016 - June 2017)`
 * Undergraduate Researcher - [Zengler lab](https://www.zenglerlab.com/)  <br /> `(2014 - June 2017)`
