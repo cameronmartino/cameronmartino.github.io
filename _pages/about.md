@@ -12,7 +12,7 @@ I am a [Systems Biology](https://bioinformatics.ucsd.edu/) PhD student at UC San
 
 | ![surfing](/images/surfing_crop_more.png) | 
 |:--:| 
-| *My favorite pastime, taken at the frisco pier in cape hatteras (2019)* |
+| *Taken at the frisco pier in cape hatteras (2019)* |
 
 Experience
 ======
