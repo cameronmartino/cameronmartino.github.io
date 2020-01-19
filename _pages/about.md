@@ -12,7 +12,7 @@ I am a [Bioinformatics & Systems Biology](https://bioinformatics.ucsd.edu/) PhD 
 
 | ![surfing](/images/surfing_crop_more.png) | 
 |:--:| 
-| *Taken at the Frisco pier in Cape Hatteras (2019)* |
+| *Taken at the Avon Fishing Pier in Cape Hatteras (2019)* |
 
 Experience
 ======
