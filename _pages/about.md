@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Systems Biology](https://bioinformatics.ucsd.edu/) PhD student at UC San Diego. My PhD work is under the mentorship of [Dr. Rob Knight](https://knightlab.ucsd.edu/). By leveraging experimental and computational -biology in conjunction, I hope to advance our understanding of how complex host-microbe systems are formed and perpetuated. 
+I am a [Bioinformatics & Systems Biology](https://bioinformatics.ucsd.edu/) PhD student at UC San Diego. My PhD work is under the mentorship of [Dr. Rob Knight](https://knightlab.ucsd.edu/). By leveraging experimental and computational -biology in conjunction, I hope to advance our understanding of how complex host-microbe systems are formed and perpetuated. 
 
 | ![surfing](/images/surfing_crop_more.png) | 
 |:--:| 
-| *Taken at the frisco pier in cape hatteras (2019)* |
+| *Taken at the Frisco pier in Cape Hatteras (2019)* |
 
 Experience
 ======
