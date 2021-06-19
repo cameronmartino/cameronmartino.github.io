@@ -18,6 +18,9 @@ Employment
 **[General Automation Lab Technologies](https://www.galt-inc.com/)** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Data Scientist* (2016 - 2017) <br/>
 
+**[Zengler Lab](https://www.zenglerlab.com/)** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Microbiologist* (2014 - 2017) <br/>
+
 **[NanoConversion Technologies](https://www.crunchbase.com/organization/nanoconversion-technologies#section-overview)** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Engineer* (2012 - 2014) <br/>
 
