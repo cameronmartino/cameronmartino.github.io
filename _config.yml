@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cameron Martino"
 title_separator          : "-"
 name                     : &name "Cameron Martino"
-description              : &description "Microbiology \nComputational Biology\n Glycobiology"
+description              : &description "Microbiology,\n Computational Biology,\n Glycobiology"
 url                      : https://cameronmartino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cameronmartino/cameronmartino.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cameron Martino"
   avatar           : "profile.png"
-  bio              : "Microbiology \nComputational Biology\n Glycobiology"
+  bio              : "Microbiology,\n Computational Biology,\n Glycobiology"
   location         : "Solana Beach, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qCNjVWcAAAAJ&hl=en"
