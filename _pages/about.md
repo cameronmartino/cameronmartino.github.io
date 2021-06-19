@@ -12,27 +12,27 @@ Employment
 ======
 
 **[Native Microbials](https://www.nativemicrobials.com/)** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Interim Chief Scientific Officer* (2020 - 2021) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Microbial Community Scientist* (2016 - 2018) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Interim Chief Scientific Officer* (2020-21) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Microbial Community Scientist* (2016-18) <br/>
 
 **[General Automation Lab Technologies](https://www.galt-inc.com/)** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Computational Biologist* (2016 - 2017) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Computational Biologist* (2016-17) <br/>
 
 **[Zengler Lab](https://www.zenglerlab.com/)** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Microbiologist* (2014 - 2017) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Microbiologist* (2014-17) <br/>
 
 **[NanoConversion Technologies](https://www.crunchbase.com/organization/nanoconversion-technologies#section-overview)** <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Engineer* (2012 - 2014) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Engineer* (2012-14) <br/>
 
 Education
 ======
 
 **PhD**, *University of California, San Diego* <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD in [Computational & Systems Biology](https://bioinformatics.ucsd.edu/) (2018 - Present) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD in [Computational & Systems Biology](https://bioinformatics.ucsd.edu/) (2018-Present) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mentor: [Dr. Rob Knight](https://knightlab.ucsd.edu/)
 
 **Bachelors of Science**, *UCSD* <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Bioengineering (2014 - 2017)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Bioengineering (2014-17)
 
 Bio
 ======
